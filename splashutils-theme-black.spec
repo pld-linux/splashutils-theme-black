@@ -14,10 +14,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Darkblue PLD theme for splashutils.
+Black PLD theme for splashutils.
 
 %description -l pl
-Motyw PLD darkblue do splashutils.
+Motyw PLD black do splashutils.
 
 %prep
 %setup -q -c
