@@ -1,7 +1,7 @@
 %define		theme	black
 
 Summary:	Splashutils - black theme
-Summary(pl.UTF-8):   Splashutils - motyw black
+Summary(pl.UTF-8):	Splashutils - motyw black
 Name:		splashutils-theme-%{theme}
 Version:	1
 Release:	1
