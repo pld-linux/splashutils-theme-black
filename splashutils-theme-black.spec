@@ -1,7 +1,7 @@
 %define		theme	black
 
 Summary:	Splashutils - black theme
-Summary(pl):	Splashutils - motyw black
+Summary(pl.UTF-8):   Splashutils - motyw black
 Name:		splashutils-theme-%{theme}
 Version:	1
 Release:	1
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Black PLD theme for splashutils.
 
-%description -l pl
+%description -l pl.UTF-8
 Motyw PLD black do splashutils.
 
 %prep
