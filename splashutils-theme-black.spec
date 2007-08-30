@@ -9,6 +9,7 @@ License:	GPL v2
 Group:		Themes
 Source0:	%{name}-%{version}.tar.gz
 # Source0-md5:	438a012a230ec068bc29c225756999f2
+Provides:	fbsplash-theme
 Requires:	splashutils
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
