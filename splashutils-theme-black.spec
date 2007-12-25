@@ -3,7 +3,7 @@ Summary:	Splashutils - black theme
 Summary(pl.UTF-8):	Splashutils - motyw black
 Name:		splashutils-theme-%{theme}
 Version:	1
-Release:	2
+Release:	3
 License:	GPL v2
 Group:		Themes
 Source0:	%{name}-%{version}.tar.gz
